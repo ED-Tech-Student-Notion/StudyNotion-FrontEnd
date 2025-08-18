@@ -100,7 +100,6 @@ function Login() {
           />
         </div>
       </div>
-      <p>hello</p>
     </div>
   );
 }
