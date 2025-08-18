@@ -67,6 +67,8 @@ function Login() {
             >
               Login
             </button>
+            <p> email:test@gmail.com password:12345
+        </p>
           </form>
 
           <div className="flex items-center mb-6">
@@ -99,7 +101,9 @@ function Login() {
             className="w-80 object-contain drop-shadow-2xl"
           />
         </div>
+        
       </div>
+      
     </div>
   );
 }
