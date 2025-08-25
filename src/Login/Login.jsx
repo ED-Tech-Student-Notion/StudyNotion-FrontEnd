@@ -80,7 +80,7 @@ function Login() {
           <div className="flex justify-center space-x-6 mb-6">
             <FaGoogle className="text-red-500 text-2xl cursor-pointer hover:scale-110 transition" />
             <FaFacebook className="text-blue-600 text-2xl cursor-pointer hover:scale-110 transition" />
-            <FaApple className="text-black text-2xl cursor-pointer hover:scale-110 transition" />
+           {/* <FaApple className="text-black text-2xl cursor-pointer hover:scale-110 transition" /> */}
           </div>
 
           <div className="text-center text-sm text-gray-700">
