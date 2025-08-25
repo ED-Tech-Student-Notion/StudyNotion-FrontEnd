@@ -27,7 +27,7 @@ function Signup() {
 
         <div className="flex-1 p-10 flex flex-col justify-center">
           <h2 className="text-4xl font-extrabold text-[#292966] mb-8">
-            Create Your Account 🚀
+            Create Your Account
           </h2>
 
           <form onSubmit={handleSignup}>
